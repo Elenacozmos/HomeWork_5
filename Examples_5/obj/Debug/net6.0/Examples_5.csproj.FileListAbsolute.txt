@@ -1,0 +1,15 @@
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\bin\Debug\net6.0\Examples_5.exe
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\bin\Debug\net6.0\Examples_5.deps.json
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\bin\Debug\net6.0\Examples_5.runtimeconfig.json
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\bin\Debug\net6.0\Examples_5.dll
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\bin\Debug\net6.0\Examples_5.pdb
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.csproj.AssemblyReference.cache
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.AssemblyInfoInputs.cache
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.AssemblyInfo.cs
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.csproj.CoreCompileInputs.cache
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.dll
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\refint\Examples_5.dll
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.pdb
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\Examples_5.genruntimeconfig.cache
+C:\Users\ElenA\Desktop\C# Урок 5\Задачи\Examples_5\obj\Debug\net6.0\ref\Examples_5.dll
